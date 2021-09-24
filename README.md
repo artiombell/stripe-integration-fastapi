@@ -29,3 +29,5 @@
 
 **NOTE: This uses cookie sec with in-memory. This should not be security on your app. This was done for a demo running on local host. Look into securing your server through other means This is a good start: https://fastapi.tiangolo.com/tutorial/security/simple-oauth2/**
 
+![image](https://user-images.githubusercontent.com/25950773/134627022-978c3b5b-7707-4836-8370-589dc7712a3c.png)
+
